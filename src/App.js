@@ -54,7 +54,10 @@ function Map() {
         {items.map((item, i) => (
           <Marker
             key={i}
-            icon={item.iconUrl}
+            icon={{
+              url: item.iconUrl,
+              scaledSize: new window.google.maps.Size(40, 40),
+            }}
             position={{
               lat: parseFloat(item.position.latitude),
               lng: parseFloat(item.position.longitude)
