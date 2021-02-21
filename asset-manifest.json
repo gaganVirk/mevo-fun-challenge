@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mevo-fun-challenge/static/css/main.7a6173a6.chunk.css",
-    "main.js": "/mevo-fun-challenge/static/js/main.97089999.chunk.js",
-    "main.js.map": "/mevo-fun-challenge/static/js/main.97089999.chunk.js.map",
+    "main.css": "/mevo-fun-challenge/static/css/main.e7be4f9b.chunk.css",
+    "main.js": "/mevo-fun-challenge/static/js/main.f6cab017.chunk.js",
+    "main.js.map": "/mevo-fun-challenge/static/js/main.f6cab017.chunk.js.map",
     "runtime-main.js": "/mevo-fun-challenge/static/js/runtime-main.a2ac321f.js",
     "runtime-main.js.map": "/mevo-fun-challenge/static/js/runtime-main.a2ac321f.js.map",
     "static/js/2.087d60b5.chunk.js": "/mevo-fun-challenge/static/js/2.087d60b5.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.3b3aaaf8.chunk.js": "/mevo-fun-challenge/static/js/3.3b3aaaf8.chunk.js",
     "static/js/3.3b3aaaf8.chunk.js.map": "/mevo-fun-challenge/static/js/3.3b3aaaf8.chunk.js.map",
     "index.html": "/mevo-fun-challenge/index.html",
-    "static/css/main.7a6173a6.chunk.css.map": "/mevo-fun-challenge/static/css/main.7a6173a6.chunk.css.map",
+    "static/css/main.e7be4f9b.chunk.css.map": "/mevo-fun-challenge/static/css/main.e7be4f9b.chunk.css.map",
     "static/js/2.087d60b5.chunk.js.LICENSE.txt": "/mevo-fun-challenge/static/js/2.087d60b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a2ac321f.js",
     "static/js/2.087d60b5.chunk.js",
-    "static/css/main.7a6173a6.chunk.css",
-    "static/js/main.97089999.chunk.js"
+    "static/css/main.e7be4f9b.chunk.css",
+    "static/js/main.f6cab017.chunk.js"
   ]
 }
